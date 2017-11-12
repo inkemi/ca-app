@@ -6,11 +6,6 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCD6Xt9LUJtWfzXZC_NBaRBK8z8NlnFYt4",
-    authDomain: "contact-4bfca.firebaseapp.com",
-    databaseURL: "https://contact-4bfca.firebaseio.com",
-    projectId: "contact-4bfca",
-    storageBucket: "contact-4bfca.appspot.com",
-    messagingSenderId: "1003024591293"
+ 
   }
 };
